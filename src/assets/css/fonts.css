@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('./assets/fonts/MuseoSansRegular/MuseoSansRegular.eot');
+  src: url('./assets/fonts/MuseoSansRegular/MuseoSansRegular.eot?iefix') format('eot'),
+       url('./assets/fonts/MuseoSansRegular/MuseoSansRegular.woff') format('woff'),
+       url('./assets/fonts/MuseoSansRegular/MuseoSansRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FuturaFuturisC';
+  src: url('./assets/fonts/FuturaFuturisC.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

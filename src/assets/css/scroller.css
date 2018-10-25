@@ -1,0 +1,145 @@
+.text-content .title {
+    all: initial;
+}
+
+.text-content {
+    display: block;
+    padding: 2px; 
+    font-size: 16px;  
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.text-content a:link {
+    color: #0000FF;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+.text-content a:visited {
+    color: #0000FF;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+.text-content a:link:active {
+    color: #0000FF;
+}
+
+.text-content a:visited:active {
+    color: #0000FF;
+}
+
+.text-content p {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.text-content div {
+    display: block;
+}
+
+.text-content strong, b {
+    font-weight: bold;
+}
+
+.text-content ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+.text-content li {
+    display: list-item;
+}
+
+.text-content ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+.text-content h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content h4 {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content h5 {
+    display: block;
+    font-size: .83em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content h6 {
+    display: block;
+    font-size: .67em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+.text-content hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.mce-btn {
+    max-height: 33px;
+}
+
